@@ -31,8 +31,7 @@ Description des étapes suivies pour assurer le bon déroulement du **laboratoir
 
 ✅ Connexion réussie sans erreurs !
 
-![alt text](image.png)
-
+![alt text](image-8.png)
 ---
 
 ### 3. Filtrage et création de points 🔍
